@@ -3,6 +3,7 @@
 This is a copy of https://github.com/buymeasoda/soda-theme/ , modified to have Windows Classic scrollbars instead of the OS X-style pucks.
 
 ## Installation
+=======
 
 If you are a git user, the best way to install the theme and keep up to date is to clone the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
 
