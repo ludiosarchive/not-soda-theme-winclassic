@@ -5,6 +5,8 @@ This is a copy of https://github.com/buymeasoda/soda-theme/ , modified to have W
 ## Installation
 =======
 
+Repo warning: I rebase my changes on top of soda-theme and use `git push --force`.
+
 If you are a git user, the best way to install the theme and keep up to date is to clone the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
 
 Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
